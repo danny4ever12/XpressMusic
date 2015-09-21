@@ -1,0 +1,184 @@
+{
+  "categories": [
+    {
+      "name": "POP",
+      "songlist": [
+        {
+          "songName": "Song1",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song2",
+          "songUrl": "http://www.stephaniequinn.com/Music/Allegro%20from%20Duet%20in%20C%20Major.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song3",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song1",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song2",
+          "songUrl": "http://www.stephaniequinn.com/Music/Allegro%20from%20Duet%20in%20C%20Major.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song3",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        }
+      ],
+      "categoryImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+    },
+    {
+      "name": "ROCK",
+      "songlist":  [
+        {
+          "songName": "Song1",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song2",
+          "songUrl": "http://www.stephaniequinn.com/Music/Allegro%20from%20Duet%20in%20C%20Major.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song3",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song1",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song2",
+          "songUrl": "http://www.stephaniequinn.com/Music/Allegro%20from%20Duet%20in%20C%20Major.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song3",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        }
+      ],
+      "categoryImage": "http://www.music-bazaar.com/album-images/vol11/530/530908/2364678-big/Billboard-Hot-Top-100-Single-Charts-Of-Febrary-2013-cover.jpg"
+    },
+    {
+      "name": "JAZZ",
+      "songlist":  [
+        {
+          "songName": "Song1",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song2",
+          "songUrl": "http://www.stephaniequinn.com/Music/Allegro%20from%20Duet%20in%20C%20Major.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song3",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song1",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song2",
+          "songUrl": "http://www.stephaniequinn.com/Music/Allegro%20from%20Duet%20in%20C%20Major.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song3",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        }
+      ],
+      "categoryImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+    },
+    {
+      "name": "ELECTRO",
+      "songlist":  [
+        {
+          "songName": "Song1",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song2",
+          "songUrl": "http://www.stephaniequinn.com/Music/Allegro%20from%20Duet%20in%20C%20Major.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song3",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song1",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song2",
+          "songUrl": "http://www.stephaniequinn.com/Music/Allegro%20from%20Duet%20in%20C%20Major.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song3",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        }
+      ],
+      "categoryImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+    },
+    {
+      "name": "REGGAE",
+      "songlist":  [
+        {
+          "songName": "Song1",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song2",
+          "songUrl": "http://www.stephaniequinn.com/Music/Allegro%20from%20Duet%20in%20C%20Major.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song3",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song1",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song2",
+          "songUrl": "http://www.stephaniequinn.com/Music/Allegro%20from%20Duet%20in%20C%20Major.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        },
+        {
+          "songName": "Song3",
+          "songUrl": "http://www.virginmegastore.me/Library/Music/CD_001214/Tracks/Track1.mp3",
+          "songImage": "https://s-media-cache-ak0.pinimg.com/736x/79/33/8f/79338fb0fc25776d298d2c78c3a048b8.jpg"
+        }
+      ],
+      "categoryImage": "http://images.fineartamerica.com/images-medium-large-5/reggae-pop-gary-grayson.jpg"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World</string>
+    <string name="app_name">XpressMusic</string>
+    <string name="title_activity_player">Xpress Music</string>
+    <string name="song_cover">song_cover</string>
+
+</resources>
